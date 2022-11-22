@@ -1,0 +1,33 @@
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-item::before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.6;
+}
+
+.carousel-caption{
+    top: 50px;
+    
+}
+
+.bi-facebook, .bi-twitter, .bi-instagram {
+    text-align: center;
+    padding: 3px 0;
+    font-size: 1.8rem;
+    color: #975cfd;
+    line-height: 1.428571429;
+    border-radius: 15px;
+  }

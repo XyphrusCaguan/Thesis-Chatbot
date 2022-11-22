@@ -1,0 +1,38 @@
+.text-end{
+   color: rgb(79, 70, 70);
+    align-items: center;
+
+}
+
+.text-start{
+  color: blue;
+   
+}
+
+
+.modal-title{
+    color: black;
+}
+.disc{
+margin-bottom: 50px;
+}
+.disc1{
+    color: red;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.disc2{
+    margin-top: 20px;
+    
+}
+
+.bt-modal{
+height: 60px;
+width: 200px;
+font-size: 25px;
+font-weight: bold;
+}
+.modal-body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
