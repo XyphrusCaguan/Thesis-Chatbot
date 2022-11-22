@@ -8,7 +8,6 @@ $ git clone https://github.com/XyphrusCaguan/Thesis-Chatbot.git
 $ cd Thesis-Chatbot
 $ cd server
 $ python3 -m venv venv
-```
 $ . venv/Scripts/activate
 ```
 Install dependencies
