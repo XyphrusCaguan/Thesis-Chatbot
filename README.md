@@ -34,7 +34,7 @@ DEPLOYMENT of backend and frontend
 # SERVER
 $ cd server
 $ . venv/Scripts/activate
-$ python app.py
+$ (venv) python app.py
 ```
 # CLIENT and ADMIN
 # gitbash inside src folder of admin and client folders
