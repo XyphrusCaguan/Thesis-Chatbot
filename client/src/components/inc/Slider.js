@@ -1,5 +1,5 @@
 import React from 'react';
-import help from '../images/help3.jpeg';
+import help from '../images/cup.jpg';
 import Button from '../inc/Button.js'
 import Chatbox from '../inc/Chatbox.js';
 

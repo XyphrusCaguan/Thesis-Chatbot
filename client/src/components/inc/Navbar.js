@@ -1,15 +1,15 @@
 import React from "react";
 import {Link} from 'react-router-dom';
-import logo from '../images/Serenity (1).png';
+import logo from '../images/logo_syrene.png';
 import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg shadow sticky-top" style={{backgroundColor:'#C576F6',}}>
+        <nav className="navbar navbar-expand-lg shadow sticky-top" style={{backgroundColor:'#696969',}}>
         <div className="container-fluid">
           <Link to="/" className="navbar-brand ms-3">
-            <img src={logo} width="158px" height="45px" alt='navbar-brand'/>
+            <img src={logo} width="100px" height="45px" alt='navbar-brand'/>
           </Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>

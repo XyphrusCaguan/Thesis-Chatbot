@@ -1,5 +1,5 @@
 import React from 'react';
-import help from '../images/help3.jpeg';
+import help from '../images/cup.jpg';
 import "../styles/slider.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
@@ -24,7 +24,7 @@ function Slider2 () {
               <div class="slider-btn mt-4">
 
                 <button class="btn btn-primary mt-3">(033) 123 4567 <i class="bi-telephone-outbound" ></i></button> 
-                <button class="btn btn-secondary ms-lg-3 mt-3">serenity@gmail.com <i class="bi-envelope"></i></button>
+                <button class="btn btn-secondary ms-lg-3 mt-3">syrene@gmail.com <i class="bi-envelope"></i></button>
 
               </div>
             </div>
