@@ -6,7 +6,7 @@ import solano from '../images/SOLANO.jpg';
 
 
 function Aboutus() {
-    document.body.style = 'background: #c7bfc2;';
+    document.body.style = 'background: #f5f5f5;';
     return (
         
       <div className="container">

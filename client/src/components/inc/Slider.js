@@ -1,5 +1,5 @@
 import React from 'react';
-import help from '../images/cup.jpg';
+import help from '../images/swissnat.jpeg';
 import Button from '../inc/Button.js'
 import Chatbox from '../inc/Chatbox.js';
 
@@ -16,7 +16,7 @@ function Slider() {
       <div className='disc'>
         
      <p className="disc1"> Disclaimer: </p>
-        <h4 className='disc2'>This Chatbot is not Accurate and We can't diagnose patients/users.</h4>
+        <h4 className='disc2 h2'>This Chatbot is not Accurate and We can't diagnose patients/users.</h4>
       </div>
 
       <Button/>

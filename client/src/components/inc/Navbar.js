@@ -6,7 +6,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg shadow sticky-top" style={{backgroundColor:'#696969',}}>
+        <nav className="navbar navbar-expand-lg shadow sticky-top" style={{backgroundColor:'#44b3e0',}}>
         <div className="container-fluid">
           <Link to="/" className="navbar-brand ms-3">
             <img src={logo} width="100px" height="45px" alt='navbar-brand'/>

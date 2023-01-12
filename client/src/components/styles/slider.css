@@ -15,7 +15,7 @@
     bottom: 0;
     right: 0;
     background: #000;
-    opacity: 0.6;
+    opacity: 0.190;
 }
 
 .carousel-caption{
@@ -31,3 +31,5 @@
     line-height: 1.428571429;
     border-radius: 15px;
   }
+
+ 
