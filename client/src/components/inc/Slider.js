@@ -16,7 +16,9 @@ function Slider() {
       <div className='disc'>
         
      <p className="disc1"> Disclaimer: </p>
-        <h4 className='disc2 h2'>This Chatbot is not Accurate and We can't diagnose patients/users.</h4>
+        <h4 className='disc2 h2'>
+        This website is not a licensed medical care provider and is not intended to diagnose, treat, or manage any medical condition or illness. If you have any questions or concerns about your health or condition, always consult a healthcare professional.
+        </h4>
       </div>
 
       <Button/>
