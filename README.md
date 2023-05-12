@@ -1,4 +1,15 @@
-# Thesis-Chatbot
+# Syrene-Chatbot-Thesis
+It has always been a conundrum for most people to reach out when it comes to mental health related problems due to the negative stigma society has created. Since the majority prefer to communicate digitally rather than in person, the researchers created a chatbot that can accommodate this dilemma. “Syrene” intends to create a system that makes use of Natural Language Processing (NLP). It can help mental health professionals assist their patients who are experiencing mental health issues, especially those who are having difficulty interacting with others. 
+
+Thus, this study aims to develop a system that can assist mental health professionals with their patients and assist patients that are experiencing emotional distress and/or mental health conditions such as anxiety/depression using Machine Learning.
+
+## Group Members
+
+- Gene Caleb C. Carbonilla
+- Xyphrus Von Keith C. Caguan
+- Joshreen D. Reyes
+- Jirah Kate C. Solano
+
 ## Initial Setup:
 This repo currently contains the starter files.
 
@@ -36,11 +47,11 @@ $ cd server
 $ . venv/Scripts/activate
 $ (venv) python app.py
 ```
-# CLIENT and ADMIN
+CLIENT and ADMIN
+```
 # gitbash inside src folder of admin and client folders
-# Thesis-Chatbot\admin\src
-# Thesis-Chatbot\client\src
+$ Thesis-Chatbot\admin\src
+$ Thesis-Chatbot\client\src
 $ npm start
 ```
 Deploy website in port 3000 for client and 3002 for admin in the default browser
-```
