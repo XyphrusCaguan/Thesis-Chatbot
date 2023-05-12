@@ -1,7 +1,7 @@
 # Syrene-Chatbot-Thesis
-It has always been a conundrum for most people to reach out when it comes to mental health related problems due to the negative stigma society has created. Since the majority prefer to communicate digitally rather than in person, the researchers created a chatbot that can accommodate this dilemma. “Syrene” intends to create a system that makes use of Natural Language Processing (NLP). It can help mental health professionals assist their patients who are experiencing mental health issues, especially those who are having difficulty interacting with others. 
+It has always been a conundrum for most people to reach out when it comes to mental health related problems due to the negative stigma society has created. Since the majority prefer to communicate digitally rather than in person, the researchers created a chatbot that can accommodate this dilemma. 
 
-Thus, this study aims to develop a system that can assist mental health professionals with their patients and assist patients that are experiencing emotional distress and/or mental health conditions such as anxiety/depression using Machine Learning.
+Thus, “Syrene” intends to create a system that makes use of Natural Language Processing (NLP). It can help mental health professionals assist their patients who are experiencing mental health issues, especially those who are having difficulty interacting with others. 
 
 ## Group Members
 
