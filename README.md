@@ -55,3 +55,5 @@ $ Thesis-Chatbot\client\src
 $ npm start
 ```
 Deploy website in port 3000 for client and 3002 for admin in the default browser
+
+_Copyright ©2023_
