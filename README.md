@@ -39,14 +39,14 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
-DEPLOYMENT of BACKEND:
-# Server
+DEPLOYMENT of BACKEND: <br/>
+#Server
 ```
 $ cd Thesis-Chatbot/src/server
 $ . venv/Scripts/activate
 $ (venv) python app.py
 ```
-DEPLOYMENT of FRONTEND:
+DEPLOYMENT of FRONTEND: <br/>
 #Admin
 ```
 $ cd Thesis-Chatbot\src\admin\src
@@ -57,6 +57,5 @@ $ npm start
 $ cd Thesis-Chatbot\src\admin\src
 $ npm start
 ```
-
 
 _Copyright ©2023_
