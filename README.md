@@ -39,6 +39,17 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
+Installation of Frontend
+#Admin
+```
+$ cd Thesis-Chatbot/src/admin/src
+$ npm install
+```
+#Client
+```
+$ cd Thesis-Chatbot/src/admin/src
+$ npm install
+```
 DEPLOYMENT of BACKEND: <br/>
 #Server
 ```
