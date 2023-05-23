@@ -49,12 +49,12 @@ $ (venv) python app.py
 DEPLOYMENT of FRONTEND: <br/>
 #Admin
 ```
-$ cd Thesis-Chatbot\src\admin\src
+$ cd Thesis-Chatbot/src/admin/src
 $ npm start
 ```
 #Client
 ```
-$ cd Thesis-Chatbot\src\admin\src
+$ cd Thesis-Chatbot/src/admin/src
 $ npm start
 ```
 
