@@ -16,14 +16,13 @@ This repo currently contains the starter files.
 Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/XyphrusCaguan/Thesis-Chatbot.git
-$ cd Thesis-Chatbot
-$ cd server
+$ cd Thesis-Chatbot/src/server
 $ python3 -m venv venv
 $ . venv/Scripts/activate
 ```
 Install dependencies
 ```
-$ (venv) pip install Flask torch torchvision nltk flask-cors nanoid
+$ (venv) pip install -r requirements.txt 
 ```
 Install nltk package
 ```
@@ -40,22 +39,24 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
-DEPLOYMENT of backend and frontend
+DEPLOYMENT of BACKEND:
+# Server
 ```
-# SERVER
-$ cd server
+$ cd Thesis-Chatbot/src/server
 $ . venv/Scripts/activate
 $ (venv) python app.py
 ```
-CLIENT and ADMIN
+DEPLOYMENT of FRONTEND:
+#Admin
 ```
-# gitbash inside src folder of admin and client folders
-$ Thesis-Chatbot\admin\src
-$ Thesis-Chatbot\client\src
+$ cd Thesis-Chatbot\src\admin\src
 $ npm start
 ```
-Deploy website in port 3000 for client and 3002 for admin in the default browser
-
+#Client
+```
+$ cd Thesis-Chatbot\src\admin\src
+$ npm start
+```
 
 
 _Copyright ©2023_
