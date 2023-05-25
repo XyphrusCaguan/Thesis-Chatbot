@@ -39,23 +39,23 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
-Installation of Frontend
-#Admin
-```
-$ cd Thesis-Chatbot/src/admin/src
-$ npm install
-```
-#Client
-```
-$ cd Thesis-Chatbot/src/admin/src
-$ npm install
-```
 DEPLOYMENT of BACKEND: <br/>
 #Server
 ```
 $ cd Thesis-Chatbot/src/server
 $ . venv/Scripts/activate
 $ (venv) python app.py
+```
+INSTALLATION OF DEPENDECIES IN FRONTEND: <br/>
+#Admin 
+```
+$ cd Thesis-Chatbot/src/admin
+$ npm install
+```
+#Client
+```
+$ cd Thesis-Chatbot/src/client
+$ npm install
 ```
 DEPLOYMENT of FRONTEND: <br/>
 #Admin
